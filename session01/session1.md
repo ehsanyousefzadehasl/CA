@@ -200,3 +200,5 @@ Anyway, today we have tradeoffs about developing devices for sequencing genome a
 There are tons of valuable information on the slides and presentationa and lectures, go there and get more. These are just things that I enjoyed and learned a lot.
 
 ***
+
+## Papers to Read Session 1 Reviews by Me

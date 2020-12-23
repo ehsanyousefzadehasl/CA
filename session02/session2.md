@@ -24,4 +24,4 @@ Professor recommends the [Lecture 14 - Flash Memory and SSDs 1](https://www.yout
 
 ***
 
-## Papers to read in Session 2
+## Papers to read in Session 2 Reviews by Me
