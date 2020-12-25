@@ -9,3 +9,5 @@ I made it modular becuase I felt the notes are getting so lengthy. So, just navi
 [Session 2](session02/session2.md)
 
 [Session 3](session03/session3.md)
+
+[Session 4](session04/session4.md)
